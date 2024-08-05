@@ -1,6 +1,6 @@
 
 
-name: Java Maven Build & Publish Artifact Usman
+name: Java Maven Build & Publish Artifact Usman Tanko
 
 on:
   push:
